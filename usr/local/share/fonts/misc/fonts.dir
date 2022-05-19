@@ -1,0 +1,6 @@
+5
+mtx.pcf mtx
+unifont-bold.bdf -gnu-unifont-bold-r-normal-sans-16-160-75-75-c-80-iso10646-1
+unifont-bolditalic.bdf -gnu-unifont-bold-i-normal-sans-16-160-75-75-c-80-iso10646-1
+unifont-italic.bdf -gnu-unifont-medium-i-normal-sans-16-160-75-75-c-80-iso10646-1
+unifont.bdf -gnu-unifont-medium-r-normal-sans-16-160-75-75-c-80-iso10646-1
